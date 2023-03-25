@@ -13,10 +13,10 @@ A full-stack app using React, Node.js, and MySQL.
 ## Screen Shot:
 ![posts](https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/posts.JPG)
 
-![login]https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/login.JPG)
+![login](https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/login.JPG)
 
-![register]https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/register.JPG)
+![register](https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/register.JPG)
 
-![singlePost]https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/singlePost.JPG)
+![singlePost](https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/singlePost.JPG)
 
-![write]https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/write.JPG)
+![write](https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/write.JPG)
