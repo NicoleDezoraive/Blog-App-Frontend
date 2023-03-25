@@ -11,3 +11,8 @@ A full-stack app using React, Node.js, and MySQL.
 
 
 ## Screen Shot:
+https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/posts.JPG
+https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/login.JPG
+https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/register.JPG
+https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/singlePost.JPG
+https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/write.JPG
